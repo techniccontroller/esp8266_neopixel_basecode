@@ -1,6 +1,6 @@
 # Basecode for a Project with ESP8266 and NeoPixel LEDs
 
-Website: https://www.techniccontroller.de/smart-led-lamp-my-basic-setup-with-esp8266
+Website with detailed instructions: https://www.techniccontroller.de/smart-led-lamp-my-basic-setup-with-esp8266
 
 
 ![IMG_20211127_231618_edit](https://user-images.githubusercontent.com/36072504/159768935-70f78c46-c1f2-4afe-9fb2-c67baedb6788.jpg)
